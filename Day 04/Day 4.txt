@@ -1,0 +1,11 @@
+what we learned ---
+
+How internet works and REST and into to NODEJS
+Lecture
+
+TOPIC COVERED -- 
+
+Internet
+APIs
+REST
+NodeJS
