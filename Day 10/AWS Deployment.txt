@@ -1,0 +1,1 @@
+In this THA we learned how to deploy our application to AWS.
